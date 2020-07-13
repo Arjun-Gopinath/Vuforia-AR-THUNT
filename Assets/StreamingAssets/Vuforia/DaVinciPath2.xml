@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qrcode" size="500.000000 500.000000" />
+    <ImageTarget name="Audi" size="500.000000 700.000000" />
+    <ImageTarget name="hostel" size="500.000000 500.000000" />
+    <ImageTarget name="second" size="500.000000 500.000000" />
+    <ImageTarget name="front" size="500.000000 500.000000" />
+    <ImageTarget name="Tesla" size="500.000000 700.000000" />
+    <ImageTarget name="Volleyball" size="500.000000 700.000000" />
+    <ImageTarget name="Wavetracker" size="500.000000 700.000000" />
+    <ImageTarget name="Resonanze" size="500.000000 700.000000" />
+    <ImageTarget name="MarieCurie" size="500.000000 700.000000" />
+    <ImageTarget name="Makethebeast" size="500.000000 700.000000" />
+    <ImageTarget name="Hydrolaunch" size="500.000000 700.000000" />
+    <ImageTarget name="EyesOff" size="500.000000 707.178833" />
+    <ImageTarget name="Explorer" size="500.000000 700.000000" />
+    <ImageTarget name="Euphoria" size="500.000000 700.000000" />
+    <ImageTarget name="Einstein" size="500.000000 700.000000" />
+    <ImageTarget name="Debugger" size="500.000000 707.178833" />
+    <ImageTarget name="DaVinci" size="500.000000 772.727295" />
+    <ImageTarget name="Blockchain" size="500.000000 707.178833" />
+    <ImageTarget name="CitySquad" size="500.000000 700.000000" />
+    <ImageTarget name="Bridgedesign" size="500.000000 700.000000" />
+    <ImageTarget name="Bombsquad" size="500.000000 700.000000" />
+    <ImageTarget name="Basketball" size="500.000000 700.000000" />
+    <ImageTarget name="Automobile" size="500.000000 700.000000" />
+    <ImageTarget name="Maze" size="500.000000 700.000000" />
+  </Tracking>
+</QCARConfig>
